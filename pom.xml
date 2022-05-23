@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.redis.demo</groupId>
-	<artifactId>redis-demo</artifactId>
+	<artifactId>redis-integration-oracle</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-redis</name>
 	<description>Demo project for Redis</description>
